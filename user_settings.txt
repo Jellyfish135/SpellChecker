@@ -1,0 +1,2 @@
+allow spell checking of HTML/XML files: true
+optionally be able to filter or skip tags: false

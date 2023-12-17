@@ -1,0 +1,2 @@
+Default Save Location: /Users/kevinlee/Downloads
+Filter or skip HTML/XML tags: false
